@@ -1,7 +1,8 @@
 
 body {
-  margin-top: 100px;
+  display: block;
   backgraund-color: #6c63ff;
+  
 }
 h1 {
   font-size: 96px;
